@@ -41,7 +41,7 @@ except Exception:
 # =========================================================
 
 CODE_VERSION = "AIR_DAILY_EXPORT_MASTER_GLOBAL_LATEST_V11_FAST_DEPARTMENT_CHANGE"
-GUI_VERSION = "QEX AIR Exporter v2 (2026-06-09)"
+GUI_VERSION = "QEX AIR Exporter v3 (2026-06-19)"
 
 STOP_REQUESTED = False
 LOG_LISTENERS = []
